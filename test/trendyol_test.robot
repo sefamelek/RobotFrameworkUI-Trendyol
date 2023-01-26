@@ -5,7 +5,7 @@ Resource  trendyol_page.robot
 Library    XML
 Library    Collections
 Library    OperatingSystem
-#Test Teardown   Close Browser
+Test Teardown   Close Browser
 
 
 
